@@ -26,11 +26,14 @@ Formulario web con validaciones básicas que incluye:
 
 ## Cómo ejecutar el proyecto
 
-1. Copiar la carpeta del proyecto dentro de:
+1. Copiar la carpeta del proyecto dentro de: C:\xampp\htdocs
 
 2. Iniciar Apache desde XAMPP.
 
 3. Abrir en el navegador:
+http://localhost/PHP_ejercicios/Ejercicio1
+
+http://localhost/PHP_ejercicios/Ejercicio2
 
 
 ## Autor
