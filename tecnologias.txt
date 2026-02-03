@@ -1,0 +1,34 @@
+🧠 Qué trabajas realmente en este proyecto
+🔹 Backend (lo principal)
+
+Procesamiento de formularios con PHP
+
+Recepción de datos por POST
+
+Validación de datos en servidor
+
+Lógica condicional compleja
+
+Control de errores
+
+🔹 Gestión de datos
+
+Uso de arrays asociativos
+
+Uso de sesiones ($_SESSION)
+
+Persistencia temporal de datos
+
+🔹 Estructuras de control
+
+Bucles (for)
+
+Condicionales (if / else)
+
+Validaciones encadenadas
+
+🔹 Generación dinámica de HTML
+
+HTML generado desde PHP
+
+Feedback visual según errores o éxito
